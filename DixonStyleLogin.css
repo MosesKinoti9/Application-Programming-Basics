@@ -1,0 +1,22 @@
+#main{
+	width:350px;
+	height:350px;
+	border:0px ;
+	position: absolute;
+	top:50%;
+	left:50%;
+	margin-top:-175px;
+	margin-left:-175px;
+	background-color: yellow;
+	border-radius: 8px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+h2{
+
+	font-family: "Lucida console",sans-serif;
+	text-shadow: 2px 2px 5px gray;
+}
